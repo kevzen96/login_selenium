@@ -5,9 +5,10 @@ Install a Selenium library
 - pip install selenium
 
 Install browser drivers
-https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/
+- https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/
 
-ตัวอย่างโค้ด
+- ตัวอย่างโค้ด
+
 from selenium import webdriver
 
 driver = webdriver.Chrome()
